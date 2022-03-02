@@ -1,5 +1,5 @@
 # VQA_model
 Dependencies: 
-Tkinter
-PIL
+Tkinter,
+PIL,
 PyTorch
